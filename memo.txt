@@ -11,3 +11,4 @@ git config --global user.name "rosyunto"
 5.copy the local files to the directory in local
 6.git add file name
 7.git commit -m "comments"
+8.git push origin master
